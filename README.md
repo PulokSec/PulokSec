@@ -8,6 +8,7 @@ Full-Stack Developer and Javascript specialist
 - 👯 I’m looking to collaborate on anyone with my interests.
 
 - 📫 How to reach me:
- 1.Facebook: https://www.facebook.com/pulok.chowdhury.priyo
- 2.LinkedIn: https://www.linkedin.com/in/pulok-chowdhury-priyo/
- 3.Instagram: https://www.instagram.com/pulok_chowdhury_priyo/ 
+- Facebook: https://www.facebook.com/pulok.chowdhury.priyo
+- LinkedIn: https://www.linkedin.com/in/pulok-chowdhury-priyo/
+- Instagram: https://www.instagram.com/pulok_chowdhury_priyo/ 
+ 
