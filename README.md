@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**PulokSec/PulokSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pulok Chowdhury 
 
 Full-Stack Developer and Javascript specialist
 
