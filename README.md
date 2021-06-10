@@ -40,11 +40,10 @@
 
 <br />
 <br />
-<img width="550px" alt="Pulok Chowdhury Github Stats"  src="https://github-readme-stats.vercel.app/api?username=puloksec
+<img width="550px" alt="Pulok Chowdhury Github Stats"  src="https://github-readme-stats.vercel.app/api?username=PulokSec
 &show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=puloksec
-&card_width=550)](https://github.com/PulokSec)
+[![Pulok's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulokSec)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/PulokSec)
 
 
 [programming]: https://www.programming-hero.com/
