@@ -4,7 +4,7 @@
 🔭 I’m currently working on React Web Sites and hybrid Apps.
 🌱 I’m currently learning Python and Deep learning for my thesis.
 👯 I’m looking to collaborate on anyone with my interests.
-- 🥅 2022 Goals: TypeScript, Next.js, Angular
+- 🥅 2022 Goals: TypeScript, Next.js, React Native
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
