@@ -39,9 +39,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=puloksec&show_icons=true&locale=en&layout=compact" alt="puloksec" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puloksec&layout=pie" alt="puloksec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=puloksec&show_icons=true&locale=en" alt="puloksec" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puloksec&show_icons=true&theme=radical" alt="puloksec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puloksec&" alt="puloksec" /></p>
 
