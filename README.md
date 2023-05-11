@@ -43,5 +43,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puloksec&show_icons=true&theme=radical" alt="puloksec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puloksec&" alt="puloksec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puloksec&hide_border=true&theme=dark" alt="puloksec" /></p>
+
 
