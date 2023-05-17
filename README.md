@@ -1,3 +1,4 @@
+![Header](./header-image.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&color=AE444F&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pulok+Chowdhury;Full-Stack+Software+Developer;Mobile+Application+Developer;Python+and+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 <h3 align="center">I'm a 😍😍 JavaScript Lover 😍😍!</h3>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript,Flutter and Dart**
 
-- 👨‍💻 All of my projects are available at [http://pulokchowdhury.netlify.app/](http://pulokchowdhury.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://puloksec.github.io/)](https://puloksec.github.io/)
 
 - 📝 I regularly write articles on [https://riopulok.medium.com/](https://riopulok.medium.com/)
 
